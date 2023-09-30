@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👨‍💻 All of my projects are available at [oussama-elmabrouki.netlify.app/](oussama-elmabrouki.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://oussama-elmabrouki.netlify.app/](oussama-elmabrouki.netlify.app/)
 
 - 📫 How to reach me **oussama.elmabrouki26@gmail.com**
 
