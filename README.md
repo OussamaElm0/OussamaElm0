@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/elmabrouki26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elmabrouki26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oussamaelm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussamaelm0" height="30" width="40" /></a>
-<a href="https://instagram.com/ossvmv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ossvmv_" height="30" width="40" /></a>
+<a href="https://instagram.com/ossvma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ossvmv_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/oussamaelm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oussamaelm0" height="30" width="40" /></a>
 </p>
 
