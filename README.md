@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at ([oussama-elmabrouki.netlify.app](https://oussama-elmabrouki.netlify.app/))
 
-- 📫 How to reach me **oussama.elmabrouki26@gmail.com**
+- 📫 How to reach me **oussama.elmabrouki0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
