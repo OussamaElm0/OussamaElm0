@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oussama El Mabrouki</h1>
 <h3 align="center">A Moroccan Full Stack developer</h3>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at ([oussamaelm.vercel.app](https://oussamaelm.vercel.app/))
 
