@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OussamaElm0&theme=default" alt="OussamaElm0" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
-- 💬 Ask me about **React.Js**
+- 💬 Ask me about **React.Js**,**Laravel**
 
 
 <div> <a href="https://twitter.com/elmabrouki26" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
