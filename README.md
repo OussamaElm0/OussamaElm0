@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OussamaElm0&theme=default" alt="OussamaElm0" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java**
 - 💬 Ask me about **React.Js**,**Laravel**
 
 
